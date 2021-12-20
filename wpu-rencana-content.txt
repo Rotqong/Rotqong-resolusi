@@ -7,6 +7,6 @@ Rencana konten WPU
    ^ React
 - Struktur Data Dasar
 - PHP frameworks
-   ^ Laravel
+  ^ Laravel
 = Interview
 - VLogs
