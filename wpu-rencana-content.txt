@@ -3,7 +3,9 @@ Rencana konten WPU
 - video javascript
   *ES6
   *Framework JavaScript
-- Struktur Data Dasar
+   ^ Angular
+   ^ React
 - PHP frameworks
+  ^ Laravel
 = Interview
 - VLogs
